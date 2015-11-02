@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Ch3
+Bundle-SymbolicName: com.amitinside.swt.practice.ch3
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: AMITINSIDE
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

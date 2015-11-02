@@ -1,1 +1,1 @@
-# swt-jface-practice
+# SWT JFace Practice
